@@ -1,1 +1,1 @@
-﻿# CampusEats Task Tracker
+# CampusEats Task Tracker
